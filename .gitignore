@@ -65,9 +65,13 @@ vcpkg_installed/
 *.dwo
 
 # test output & cache
-Testing/
-.cache/
 .vs/
 x64/
 Debug/
 Release/
+*.user
+*.suo
+*.tlog
+*.vsidx
+*.VC.db
+*.VC.VC.opendb
